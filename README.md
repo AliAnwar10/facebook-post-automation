@@ -103,13 +103,6 @@ Respect Facebook’s community standards and group posting limits
 This tool is for educational and automation learning purposes only.
 Do not misuse it to spam or violate Facebook’s Terms of Service. Use it responsibly and ethically.
 
-### 📸 Screenshots
-![Image](https://github.com/user-attachments/assets/3f450de3-ad9f-43ba-bd76-991d89d82281)
-![Image](https://github.com/user-attachments/assets/cbb25dd1-0e05-4b4e-bb1f-7a2247cd5acb)
-![Image](https://github.com/user-attachments/assets/9a7d5d99-449b-40d3-a445-13a2d09131ee)
-![Image](https://github.com/user-attachments/assets/3ef2a829-fa87-4a77-b6d2-19b577da2b82)
-![Image](https://github.com/user-attachments/assets/328b17eb-37ab-4f1f-bbe4-771549fe2064)
-
 
 ### 📄 License
 This project is licensed under the MIT License. See LICENSE for details.
